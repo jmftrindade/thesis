@@ -1,0 +1,28 @@
+# OSX
+.DS_Store
+
+# Vanilla latex.
+*.aux
+*.blg
+*.bbl
+*.log
+
+# Reading list.
+reading/reading_list.pdf
+
+# Latexmk and Makefile
+*-blx.bib
+*.fdb*
+*.fls*
+*.xml
+.refresh
+main.out
+
+# Latex minted package
+_minted-paper/
+
+# Biblatex
+*.bcf
+
+# Temporary Microsoft Office stuff
+~*
